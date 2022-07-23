@@ -11,9 +11,9 @@ The program can generate static or animated renders of the Mandelbrot set as wel
   <img src="https://cdn.discordapp.com/attachments/807059565937688586/994291767593668688/image_copy_7.png" width="270" />
 </p>
 <p float="left">
-  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994291767811780718/image_copy.png" width="250" />
-  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994291766436036730/image_copy_3.png" width="250" /> 
-  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994634290883215461/image.png" width="250" />
+  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994291767811780718/image_copy.png" width="270" />
+  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994291766436036730/image_copy_3.png" width="270" /> 
+  <img src="https://cdn.discordapp.com/attachments/807059565937688586/994634290883215461/image.png" width="270" />
 </p>
 
 ### Mandelbrot Set
