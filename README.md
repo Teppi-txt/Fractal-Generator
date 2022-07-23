@@ -21,4 +21,5 @@ The program can generate static or animated renders of the Mandelbrot set as wel
 
 ## Animated Julia Sets
 The program can also stitch many frames of Julia sets with a changing input to create an animation.
+
 <img src="https://user-images.githubusercontent.com/64125245/180596269-d2c4e604-5140-497a-9ac1-11a5c2e8667b.gif" width="810" />
